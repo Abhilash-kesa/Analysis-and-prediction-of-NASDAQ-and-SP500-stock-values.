@@ -1,0 +1,1 @@
+# Analysis-and-prediction-of-NASDAQ-and-SP500-stock-values.
